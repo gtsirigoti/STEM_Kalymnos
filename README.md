@@ -8,6 +8,10 @@ To αποθετήριο αυτό είναι για τη συμμετοχή τη�
 
 3 arduino nano
 
+Espressif ESP32 WLAN Dev Kit Board Development Bluetooth Wifi v1 ή
+
+ESP8266 ESP-01 WIFI Wireless Transceiver Module - LWIP AP+STA 
+
 drilled pcb
 
 male header pins
